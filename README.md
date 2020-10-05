@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+New - Working on Oracle APEX framework project.
 
 - 🔭 I’m currently working on a python course for Teenagers.
 - 🌱 I’m currently learning Python
